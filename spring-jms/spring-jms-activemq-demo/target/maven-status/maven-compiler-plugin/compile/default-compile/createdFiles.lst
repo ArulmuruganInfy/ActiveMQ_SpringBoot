@@ -1,0 +1,5 @@
+com/demo/jms/consumer/ReceiverConfig.class
+com/demo/jms/producer/SenderConfig.class
+com/demo/jms/producer/Sender.class
+com/demo/jms/consumer/Receiver.class
+com/demo/jms/SpringJmsApplication.class
